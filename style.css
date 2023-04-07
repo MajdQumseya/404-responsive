@@ -1,0 +1,33 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.scarecrow{
+
+}
+
+.not-found{
+
+}
+
+.content{
+    width: 586px;
+}
+
+.welcome-header{
+    color: #333;
+    font-size: 4rem;
+}
+
+.welcome-content{
+
+}
+
+.welcome-button{
+
+}
